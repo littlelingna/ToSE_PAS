@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ToSE_PAS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ToSE_PAS.war">
+      <element id="artifact" artifact-name="ToSE_PAS:war exploded" />
+    </root>
+  </artifact>
+</component>
